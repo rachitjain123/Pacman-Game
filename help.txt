@@ -1,0 +1,15 @@
+ 
+ It is an arcade game  where the player controls a metal player and uses it to land on and destroy other flying balls constantly traversing the screen from left to right.
+
+ Controls:
+
+ 1. Right arrow key -> move right
+ 2. Left arrow Key -> move left
+ 3. Up arrow key  -> jump 
+ 4. key 'a' -> pan left
+ 5. key 'd' -> pan right
+ 6. key 'w' -> pan up
+ 7. key 's' -> pan down
+ 8. scrolling in the mouse -> zooming in
+ 9. scrolling out the mouse -> zooming out
+ 10. key 'r' -> reset the screen to normal size.
