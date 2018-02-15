@@ -1,4 +1,4 @@
-PACKMAN GAME
+PACMAN GAME
 =========================
 
 # To run the game :
