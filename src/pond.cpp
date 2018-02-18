@@ -7,7 +7,6 @@ Pond::Pond(float x, float y, color_t color,float size)
     this->position = glm::vec3(x, y, 0);
     this->rotation = 0;
 
-    // speedx = -0.01+(rand()/(float) RAND_MAX)*0.02;
     speedx = 0.0;
     speedy = 0.0;
     accx = 0.0 ;
@@ -16,7 +15,6 @@ Pond::Pond(float x, float y, color_t color,float size)
     float r = size;
     
     float n = 10000;
-    // float r = 0.5;
 
     float theta = -3.14159/n;
 
